@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MPM_neironet/1.0.0": {
+        "runtime": {
+          "MPM_neironet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MPM_neironet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
