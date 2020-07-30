@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сергей\\Desktop\\C#\\MPM\\CSharp-NeiroNet\\MPM_neironet\\MPM_neironet.csproj": {}
+    "C:\\Users\\Сергей\\Desktop\\C#\\CSharp-NeiroNet\\MPM_neironet\\MPM_neironet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сергей\\Desktop\\C#\\MPM\\CSharp-NeiroNet\\MPM_neironet\\MPM_neironet.csproj": {
+    "C:\\Users\\Сергей\\Desktop\\C#\\CSharp-NeiroNet\\MPM_neironet\\MPM_neironet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сергей\\Desktop\\C#\\MPM\\CSharp-NeiroNet\\MPM_neironet\\MPM_neironet.csproj",
+        "projectUniqueName": "C:\\Users\\Сергей\\Desktop\\C#\\CSharp-NeiroNet\\MPM_neironet\\MPM_neironet.csproj",
         "projectName": "MPM_neironet",
-        "projectPath": "C:\\Users\\Сергей\\Desktop\\C#\\MPM\\CSharp-NeiroNet\\MPM_neironet\\MPM_neironet.csproj",
+        "projectPath": "C:\\Users\\Сергей\\Desktop\\C#\\CSharp-NeiroNet\\MPM_neironet\\MPM_neironet.csproj",
         "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сергей\\Desktop\\C#\\MPM\\CSharp-NeiroNet\\MPM_neironet\\obj\\",
+        "outputPath": "C:\\Users\\Сергей\\Desktop\\C#\\CSharp-NeiroNet\\MPM_neironet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
